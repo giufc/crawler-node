@@ -1,5 +1,5 @@
 {
-  "name": "crawler",
+  "name": "crawler2",
   "version": "1.0.0",
   "description": "Bfbdsjfds",
   "main": "app.js",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/giufc/crawler-node#readme",
   "dependencies": {
+    "ejs": "^2.5.6",
     "express": "^4.15.3"
-  }
+  },
+  "devDependencies": {}
 }

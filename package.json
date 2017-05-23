@@ -1,0 +1,22 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Bfbdsjfds",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giufc/crawler-node.git"
+  },
+  "author": "Giuliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giufc/crawler-node/issues"
+  },
+  "homepage": "https://github.com/giufc/crawler-node#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

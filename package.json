@@ -1,8 +1,13 @@
 {
-  "name": "crawler2",
-  "version": "1.0.0",
-  "description": "Bfbdsjfds",
+  "name": "crawler-node",
+  "version": "1.0.1",
+  "description": "````javascript",
   "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,15 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/giufc/crawler-node.git"
   },
-  "author": "Giuliano",
+  "author": "Giuliano, Robson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/giufc/crawler-node/issues"
   },
-  "homepage": "https://github.com/giufc/crawler-node#readme",
-  "dependencies": {
-    "ejs": "^2.5.6",
-    "express": "^4.15.3"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/giufc/crawler-node#readme"
 }

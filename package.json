@@ -1,6 +1,6 @@
 {
   "name": "crawler-node",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "````javascript",
   "main": "app.js",
   "dependencies": {
